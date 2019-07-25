@@ -1,6 +1,6 @@
 {
   "questions": {
-    "green-feelings" : [
+    "greenFeelings" : [
       {
         "id": 1,
         "text": "Go quiet and remove myself from the situation",
@@ -128,5 +128,19 @@
         "point": 0
       }
     ]
-  }
+  },
+  "posts": [
+    {
+    "id": 1,
+    "title": "Post 1"
+    },
+    {
+    "id": 2,
+    "title": "Post 2"
+    },
+    {
+    "id": 3,
+    "title": "Post 3"
+    }
+  ]
 }
