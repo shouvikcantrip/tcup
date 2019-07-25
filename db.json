@@ -1,5 +1,4 @@
 {
-  "questions": {
     "greenFeelings" : [
       {
         "id": 1,
@@ -128,19 +127,69 @@
         "point": 0
       }
     ],
-    "posts": [
-      {
-      "id": 1,
-      "title": "Post 1"
-      },
-      {
-      "id": 2,
-      "title": "Post 2"
-      },
-      {
-      "id": 3,
-      "title": "Post 3"
-      }
-    ]
-  }
+    "faq": "<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset=\"utf-8\" />
+        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+        <title>FAQ</title>
+        
+    </head>
+    
+    <body style=\"font-family: sans-serif;\">
+        <h4>My Credits:</h4>
+        <p>You will get <b>10</b> points each for:</p>
+        <ol>
+            <li>Participating in the weekly /social Day activities.</li>
+            <li>When your colleagues agree that you are not letting personal problems interfere with your standard of work. And you seek advice about any problems or conflict you're facing with a colleague or senior.</li>
+        </ol>
+        <p>You will get 5 points each for when:</p>
+        <ol>
+            <li>You have used the sleep App and you can demonstrate at least 6 hours quality sleep.</li>
+            <li>2.	You can validate you have had 5 portions of fruit and veg the day before. </li>
+            <li>You have taken your breaks and not worked continuously for longer than 10 hours.</li>
+        </ol>
+        <p>Your colleagues in the Toolbox meeting will award you <b>10</b> points each when:</p>
+        <ol>
+            <li>You have talked about a near miss that you have raised in the tool box meeting / monthly safety meeting.</li>
+            <li>You have talked about a STOP WORK CARD that you have raised in the tool box meeting / monthly safety meeting.</li>
+        </ol>
+        <p>You will get <b>10</b> points each for:</p>
+        <ol>
+            <li>You have conducted 2 or more FAB observations this week.</li>
+            <li>You have had at least 1 meal today with your colleagues and not alone.</li>
+            <li>You have awarded two or more colleagues a recognition card.</li>
+        </ol>
+        <p>Your HOD will award you <b>20</b> points when:</p>
+        <ol>
+            <li>You have talked through your key tasks for today and fully understood the hazards and how you will work safely.</li>
+            <li>You have followed Bridge Procedures, talked through navigational hazards at each change of watch and fully understood the hazards and how you will navigate safely.</li>
+            <li>You can evidence that you double-checked and summarized any instructions you were given yesterday by a colleague or a senior.</li>
+             <li>You can evidence, even under pressure, you did not take a short-cut.</li>
+             <li>You have engaged in a weekly call with your ship's technical Supt / monthly for technical manager and discussed matters of mutual concern.</li>
+             <li>You have engaged in at least one of the weekly calls with your ship's technical Supt / technical manager alongside senior officers every month and discussed matters of mutual concern.</li>
+        </ol>
+        <p>You will receive <b>10</b> bonus points when:</p>
+        <ol>
+            <li>You have worked for 30 days with No Injury.</li>
+            <li>Nil PSC Observation Inspection.</li>
+            <li>2 Vetting Observations/Inspection.</li>
+            <li>You are Safety Champion of the Month for having raised MAX Near Misses + Stop Work Cards - Stop Work Cards Received in that month.</li>
+        </ol>
+        <h4>My Debits:</h4>
+        <p>You will lose <b>20</b> points for:</p>
+        <ol>
+            <li>Every PPE related STOP WORK: not wearing the right safety gear in the right place, eg goggles on your head, but not covering your eyes, gloves are in your pockets and not on your hands, helmet is on your head but not using the chin strap.</li>
+        </ol>
+        <p>You will lose <b>40</b> points for:</p>
+        <ol>
+            <li>Every PROCESS related STOP WORK: taking a short-cut and non-compliance with a procedure.</li>
+            <li>Every PSC Inspection or SIRE/CDI/Flag State Inspection with more than 2 Observations / Inspection.</li>
+        </ol>
+        <p>SERIOUS LAPSE PENALTY: T-CUP credits are reset to ‘zero’ each time you are involved in an injury or accidents causing personal harm, a navigational incident, a Port State Control Detention, a Vetting Rejection, adverse terminal feedback.</p>
+        
+        
+    </body>
+    </html>
+    "
 }
