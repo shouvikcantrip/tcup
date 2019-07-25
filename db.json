@@ -31,38 +31,40 @@
         "point": 0
       }
     ],
-    "red-frustration": [
-      {
-        "id": 1,
-        "text": "Tend to speak first and think later",
-        "point": 0
-      },
-      {
-        "id": 2,
-        "text": "Can be direct and insensitive to others feelings",
-        "point": 0
-      },
-      {
-        "id": 3,
-        "text": "May say things in the heat of the moment and regret them later.",
-        "point": 0
-      },
-      {
-        "id": 4,
-        "text": "Want to solve the problem I'm facing",
-        "point": 0
-      },
-      {
-        "id": 5,
-        "text": "Want to take quick action to fix things",
-        "point": 0
-      },
-      {
-        "id": 6,
-        "text": "Have a need to do something now to improve the situation",
-        "point": 0
-      }
-    ],
+    "red-frustration": {
+      "red_frustrating": [
+        {
+          "id": 1,
+          "text": "Tend to speak first and think later",
+          "point": 0
+        },
+        {
+          "id": 2,
+          "text": "Can be direct and insensitive to others feelings",
+          "point": 0
+        },
+        {
+          "id": 3,
+          "text": "May say things in the heat of the moment and regret them later.",
+          "point": 0
+        },
+        {
+          "id": 4,
+          "text": "Want to solve the problem I'm facing",
+          "point": 0
+        },
+        {
+          "id": 5,
+          "text": "Want to take quick action to fix things",
+          "point": 0
+        },
+        {
+          "id": 6,
+          "text": "Have a need to do something now to improve the situation",
+          "point": 0
+        }
+      ]
+    },
     "purple-focus": [
       {
         "id":1,
