@@ -1,0 +1,108 @@
+{
+  "questions": {
+    "green-feelings" : [
+      {
+        "id": 1,
+        "text": "Go quiet and remove myself from the situation"
+      },
+      {
+        "id": 2,
+        "text": "Just want to be alone with my thoughts"
+      },
+      {
+        "id": 3,
+        "text": "Tend to reflect and keep my thoughts to myself"
+      },
+      {
+        "id": 4,
+        "text": "Want someone I can talk the problem through with"
+      },
+      {
+        "id": 5,
+        "text": "Am willing to ask for help"
+      },
+      {
+        "id": 6,
+        "text": "Need to vent my frustrations with someone and free myself"
+      }
+    ],
+    "red-frustration": [
+      {
+        "id": 1,
+        "text": "Tend to speak first and think later"
+      },
+      {
+        "id": 2,
+        "text": "Can be direct and insensitive to others feelings"
+      },
+      {
+        "id": 3,
+        "text": "May say things in the heat of the moment and regret them later."
+      },
+      {
+        "id": 4,
+        "text": "Want to solve the problem I'm facing"
+      },
+      {
+        "id": 5,
+        "text": "Want to take quick action to fix things"
+      },
+      {
+        "id": 6,
+        "text": "Have a need to do something now to improve the situation"
+      }
+    ],
+    "purple-focus": [
+      {
+        "id":1,
+        "text": "Imagine problems to be bigger and worse in my mind"
+      },
+      {
+        "id": 2,
+        "text": "Can feel low and depreesed for a while"
+      },
+      {
+        "id": 3,
+        "text": "Have a tendency to think of worst-case scenario"
+      },
+      {
+        "id": 4,
+        "text": "Can find it hard to concentarte"
+      },
+      {
+        "id": 5,
+        "text": "Can find it hard to stick with one task and give it my full attention"
+      },
+      {
+        "id": 6,
+        "text": "Can't make my mind up and will keep delaying a challenging task"
+      }
+    ],
+    "blue-fault": [
+      {
+        "id": 1,
+        "text": "Have a tendency to blame myself"
+      },
+      {
+        "id": 2,
+        "text": "Am self-critical"
+      },
+      {
+        "id": 3,
+        "text": "Belive I could have done things better"
+      },
+      {
+        "id": 4,
+        "text": "Can point the finger at others"
+      },
+      {
+        "id": 5,
+        "text": "Think others have let me down"
+      },
+      {
+        "id": 6,
+        "text": "Find fault in other's efforts"
+      }
+    ]
+  }
+}
