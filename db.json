@@ -128,5 +128,27 @@
         "text": "Find fault in other's efforts",
         "point": 0
       }
-    ]
+    ],
+  "videos": [
+    {
+      "id": 1,
+      "vid": "NXuWgn-itbY"
+    },
+    {
+      "id": 2,
+      "vid": "eTGo9iNAAC8"
+    },
+    {
+      "id": 3,
+      "vid": "RJ1W6P3NuCw"
+    },
+    {
+      "id": 4,
+      "vid": "osfrALLVP14"
+    },
+    {
+      "id": 5,
+      "vid": "fzbNkdtSqrQ"
+    }
+  ]
 }
