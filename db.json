@@ -3,105 +3,129 @@
     "green-feelings" : [
       {
         "id": 1,
-        "text": "Go quiet and remove myself from the situation"
+        "text": "Go quiet and remove myself from the situation",
+        "point": 0
       },
       {
         "id": 2,
-        "text": "Just want to be alone with my thoughts"
+        "text": "Just want to be alone with my thoughts",
+        "point": 0
       },
       {
         "id": 3,
-        "text": "Tend to reflect and keep my thoughts to myself"
+        "text": "Tend to reflect and keep my thoughts to myself",
+        "point": 0
       },
       {
         "id": 4,
-        "text": "Want someone I can talk the problem through with"
+        "text": "Want someone I can talk the problem through with",
+        "point": 0
       },
       {
         "id": 5,
-        "text": "Am willing to ask for help"
+        "text": "Am willing to ask for help",
+        "point": 0
       },
       {
         "id": 6,
-        "text": "Need to vent my frustrations with someone and free myself"
+        "text": "Need to vent my frustrations with someone and free myself",
+        "point": 0
       }
     ],
     "red-frustration": [
       {
         "id": 1,
-        "text": "Tend to speak first and think later"
+        "text": "Tend to speak first and think later",
+        "point": 0
       },
       {
         "id": 2,
-        "text": "Can be direct and insensitive to others feelings"
+        "text": "Can be direct and insensitive to others feelings",
+        "point": 0
       },
       {
         "id": 3,
-        "text": "May say things in the heat of the moment and regret them later."
+        "text": "May say things in the heat of the moment and regret them later.",
+        "point": 0
       },
       {
         "id": 4,
-        "text": "Want to solve the problem I'm facing"
+        "text": "Want to solve the problem I'm facing",
+        "point": 0
       },
       {
         "id": 5,
-        "text": "Want to take quick action to fix things"
+        "text": "Want to take quick action to fix things",
+        "point": 0
       },
       {
         "id": 6,
-        "text": "Have a need to do something now to improve the situation"
+        "text": "Have a need to do something now to improve the situation",
+        "point": 0
       }
     ],
     "purple-focus": [
       {
         "id":1,
-        "text": "Imagine problems to be bigger and worse in my mind"
+        "text": "Imagine problems to be bigger and worse in my mind",
+        "point": 0
       },
       {
         "id": 2,
-        "text": "Can feel low and depreesed for a while"
+        "text": "Can feel low and depreesed for a while",
+        "point": 0
       },
       {
         "id": 3,
-        "text": "Have a tendency to think of worst-case scenario"
+        "text": "Have a tendency to think of worst-case scenario",
+        "point": 0
       },
       {
         "id": 4,
-        "text": "Can find it hard to concentarte"
+        "text": "Can find it hard to concentarte",
+        "point": 0
       },
       {
         "id": 5,
-        "text": "Can find it hard to stick with one task and give it my full attention"
+        "text": "Can find it hard to stick with one task and give it my full attention",
+        "point": 0
       },
       {
         "id": 6,
-        "text": "Can't make my mind up and will keep delaying a challenging task"
+        "text": "Can't make my mind up and will keep delaying a challenging task",
+        "point": 0
       }
     ],
     "blue-fault": [
       {
         "id": 1,
-        "text": "Have a tendency to blame myself"
+        "text": "Have a tendency to blame myself",
+        "point": 0
       },
       {
         "id": 2,
-        "text": "Am self-critical"
+        "text": "Am self-critical",
+        "point": 0
       },
       {
         "id": 3,
-        "text": "Belive I could have done things better"
+        "text": "Belive I could have done things better",
+        "point": 0
       },
       {
         "id": 4,
-        "text": "Can point the finger at others"
+        "text": "Can point the finger at others",
+        "point": 0
       },
       {
         "id": 5,
-        "text": "Think others have let me down"
+        "text": "Think others have let me down",
+        "point": 0
       },
       {
         "id": 6,
-        "text": "Find fault in other's efforts"
+        "text": "Find fault in other's efforts",
+        "point": 0
       }
     ]
   }
