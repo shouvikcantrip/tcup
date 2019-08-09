@@ -34,32 +34,32 @@
     "red-frustration": {
       "red_frustrating": [
         {
-          "id": 1,
+          "id": 7,
           "text": "Tend to speak first and think later",
           "point": 0
         },
         {
-          "id": 2,
+          "id": 8,
           "text": "Can be direct and insensitive to others feelings",
           "point": 0
         },
         {
-          "id": 3,
+          "id": 9,
           "text": "May say things in the heat of the moment and regret them later.",
           "point": 0
         },
         {
-          "id": 4,
+          "id": 10,
           "text": "Want to solve the problem I'm facing",
           "point": 0
         },
         {
-          "id": 5,
+          "id": 11,
           "text": "Want to take quick action to fix things",
           "point": 0
         },
         {
-          "id": 6,
+          "id": 12,
           "text": "Have a need to do something now to improve the situation",
           "point": 0
         }
@@ -67,64 +67,64 @@
     },
     "purple-focus": [
       {
-        "id":1,
+        "id":13,
         "text": "Imagine problems to be bigger and worse in my mind",
         "point": 0
       },
       {
-        "id": 2,
+        "id": 14,
         "text": "Can feel low and depreesed for a while",
         "point": 0
       },
       {
-        "id": 3,
+        "id": 15,
         "text": "Have a tendency to think of worst-case scenario",
         "point": 0
       },
       {
-        "id": 4,
+        "id": 16,
         "text": "Can find it hard to concentarte",
         "point": 0
       },
       {
-        "id": 5,
+        "id": 17,
         "text": "Can find it hard to stick with one task and give it my full attention",
         "point": 0
       },
       {
-        "id": 6,
+        "id": 18,
         "text": "Can't make my mind up and will keep delaying a challenging task",
         "point": 0
       }
     ],
     "blue-fault": [
       {
-        "id": 1,
+        "id": 19,
         "text": "Have a tendency to blame myself",
         "point": 0
       },
       {
-        "id": 2,
+        "id": 20,
         "text": "Am self-critical",
         "point": 0
       },
       {
-        "id": 3,
+        "id": 21,
         "text": "Belive I could have done things better",
         "point": 0
       },
       {
-        "id": 4,
+        "id": 22,
         "text": "Can point the finger at others",
         "point": 0
       },
       {
-        "id": 5,
+        "id": 23,
         "text": "Think others have let me down",
         "point": 0
       },
       {
-        "id": 6,
+        "id": 24,
         "text": "Find fault in other's efforts",
         "point": 0
       }
@@ -150,5 +150,37 @@
       "id": 5,
       "vid": "fzbNkdtSqrQ"
     }
-  ]
+  ],
+  "red_temper": {
+    "header": "RED TEMPER: ‘THE HOT KETTLE",
+    "text": "If you have a red-temper, you may say things in the heat of the moment you later regret. You may also act and behave in ways that others see as aggressive, rude or inconsiderate. You may think it’s OK to show your passion and show your dissatisfaction with the situation. Problem is it weakens your personal credibility. Colleagues think ‘if you can’t control your emotions – then what else can’t you control’?\nHere are three practical steps you can take:\n• Learn to stay neutral: suspend your judgement. Our anger can come from a number of energy sources. For some it’s how can you be so incompetent. For others they see the colleague being lazy. Not taking pride in their work. Or simply useless. The more you judge others, the more you feel let down.\nThe more you make up your mind – ‘I’m right and they’re wrong’. This internal thinking then gives you permission to blast your feelings. But what if after you’ve cooled down, you realise there is more to the situation than you originally thought?\n • Just breathe and count to 10: you’ve no doubt heard of this before. By counting to 10 and just allowing yourself to sigh and breathe in slowly – you reduce your blood pressure. You buy yourself time to slow down and see the situation from a fresh pair of eyes.\n• Focus on the problem not the person: sometimes we can be too quick to blame someone. We focus on the way they respond to us... or their mannerism that just seems to make us feel annoyed. A better option is to focus on the problem. Stay focused on the outcome you want. In being so driven to rectify the problem, you will be less consumed by the personalities of those who annoy you."
+  },
+  "red_energy": {
+    "header": "RED ENERGY: ‘THE FIXER’",
+    "text": "If you have ‘red energy’, chances are you can’t sit still or stand still when you’re under pressure. You feel compelled to get up and do something... act... be proactive... try and fix the problem.\nRed energy people have lots of nervous energy. Their foot is always tapping. Their hands are clicking a pen or playing with whatever they can lay their hands on. They are prone to acting in haste and repenting at leisure.\nHere are 3 practical things you can do:\n• Buy yourself time to think: even though you may be tempted to act. Resist the urge. Take a few minutes and write down the root cause of the problem. Outline the next steps. Anticipate the risks of each step. Just these things will stop you acting impulsively. You’ll look before you jump.\n• Get people around and explore your options: your first idea is unlikely to be your best option. So ask for other’s opinions. Listen. Consider others may have better ideas and may be closer to a solution than yourself.\n• Give permission for others to challenge your thinking: let your colleagues know under- pressure you have ‘red energy’ and your instincts are to jump first – think later. Ask them to challenge you even when you’re fully convinced of a course of action. For them to help you consider others’ options – even though you may not want to hear them."
+  },
+  "green_closed_door": {
+    "header": "GREEN CLOSED DOOR: ‘THE LONE THINKER’",
+    "text": "If you have ‘green closed-door temperament, you are most likely to keep your thoughts and feelings to yourself – when you’re facing challenges. When you’re around other people, they may not know what you’re thinking of or worried about. People may see you as a private person or a ‘book they cannot read’.\nGreen closed-door people keep their thoughts private. Even when they feel angry or shocked, they need the time to process their feelings. It can mean green closed-door people are overly self-critical or tough on themselves. They may over-think a situation and play it over and over in their mind and figure out ‘what could I have done differently’?\nHere are 3 practical things you can do:\n• Put your thoughts down in writing: this simple act means the issues are no longer going round and round your head. It means you can step back and then make sense of what you have written down.\n• Signal to people what you’re thinking: let the people around you know what you’re thinking. You don’t need to give them the full version. But enough, so people know when to leave you alone and when to reach out to you. You don’t have to carry the world’s problems on your own shoulders.\n• Find someone you can confide in: it can be highly stressful keeping your worries or troubles to yourself. So even though you may not want to go public with your thoughts – find at least one person you can have a heart-to-heart conversation with."
+  },
+  "green_lets_talk": {
+    "header": "GREEN ‘LET’S TALK’: ‘THE OPEN-BOOK’",
+    "text": "Under pressure green ‘let’s talk’ need to express and articulate how they’re feeling. They want to get things off their chest. They need to think aloud. Express their feelings. This is all your way of making sense of what is going on. Others are likely to see you as being transparent, open and forthcoming with your thoughts and feelings. You may on occasion be too quick to say things or express ideas– which others may not want to hear.\nHere are 3 practical things you can do:\n• When you’re feeling under-pressure and you’re unhappy about a situation – articulate the outcome or the result you want in your own mind first. Be less concerned about sharing your feelings or thoughts. This is more likely to win people over and get them on your side.\n• Express what you agree with first: too often people with ‘green energy’ may verbalise what they’re worried about or what is not going well. However, it may help to get people on-side if you start off by sharing what you agree with or what is going well and then move on to your concerns.\n• Learn to be a mediator: you may want to engage your colleagues and have a difficult conversation in a safe place. As the mediator you ask people in turn how to resolve an issue, what is on their mind and how they’re feeling. This not only helps the team to process their 1feelings – you may come up with better ideas and options. As they say ‘two heads are often better than one’."
+  },
+  "deep_purple_worrier": {
+    "header": "DEEP-PURPLE WORRIER:THE OVER-THINKER’",
+    "text": "Under-pressure ‘deep purple worriers’ can over-think and turn a small issue into something much bigger. These colleagues are very skilled in taking things out of perspective. As a result, they unnecessarily stress and worry over seemingly small matters – which in their mind ‘snowball’ into much bigger issues. Deep-purple worriers over think, over analyse and somehow can’t switch their thoughts off. It can lead to short bursts of feeling low, depressed or anxiety attacks.\nHere are 3 practical things you can do:\n• Use the barometer technique: imagine a 10-point scale. Where 10 is the worst thing imaginable – say death! 5 is somewhere in between and 1 is you hurt your toe coming out of bed. Whatever issue you’re facing – consider where it ranks on the 10-point scale. If it’s less than 5, worry about it for 10 minutes and then get over it!\n• Know that worrying does not resolve anything: it’s only action that changes things. You can spend a lot of energy worrying – but this will not improve your circumstances. So, channel your energy into one small thing I can do today to improve the situation I’m encountering.\n• Practice going 30 minutes without worrying: what if you set yourself the challenge of going 5 minutes without dwelling on a negative thought... and then increasing this to 10 minutes, 15 minutes and then 30 minutes. This is called ‘brain-training’. If you can suspend your worrying and anxiety for 30 minutes, learn to extend it to an hour, then two and then a fully day!"
+  },
+  "light_purple_focus": {
+    "header": "LIGHT PURPLE FOCUS: ‘THE PROCRASTINATOR – LET’S DO IT TOMORROW MAN’",
+    "text": "Under-pressure those with a light purple focus find themselves easily distracted. You may start more than you finish. You’re unable to focus on one task. Your mind jumps from one activity to another – you find it hard to concentrate and get things done. You may also be prone to procrastination – you may delay, defer or put-off tasks you know you need to do – but\ncan’t find the energy.\nHere are 3 practical things you can do:\n• Write a to-do list: simple as this may sound, actually writing down your goals and priorities gives you more focus. Put down a time scale in which the task needs to be done and share this with your colleagues. You’re less likely to back-out on a commitment, when you’ve made it public.\n• Chunk your activities: we tend to be more productive when we do our paperwork and admin in one chunk of time, then an operational task in a second chunk of time, etc... You’re more likely to get in the flow. Resist starting a task, then leaving it to start something new.\n• Whatever you do, be 100% focused: set yourself the challenge of making even a boring task interesting. Whatever you do or touch, see if you can do it 5% better than you’ve done it before. Set yourself mini-goals and targets. The more interesting you make the work, the more you’ll focus and concentrate."
+  },
+  "blue_self_critical": {
+    "header": "BLUE SELF-CRITICAL: ‘THE SELF-CRITIC’",
+    "text": "Under-pressure ‘blue self-critics’ tend to blame themselves when things don’t go to plan. Their inner voice is one of being tough with themselves, being self-critical and giving themselves a hard time. Under pressure these colleagues ask themselves ‘the wrong’ questions. They tend to ask: “how could I have been so silly... or why don’t I pay more attention...or why do these things always happen to me?”. Consequently, they lose self-confidence and begin to question their own skills or capabilities.\nHere are 3 practical things you can do:\n• Ask yourself healthy questions: when you’re under-pressure ask yourself better questions, eg: “what can I learn from this situation....how will I bounce back from this stronger and wiser...”? This channels your brain-power into seeing possibilities, not thinking about failure.\n• Learn to forgive yourself: everyone makes mistakes. It’s not the falling – it’s how quickly you can get back up, ready to take on the next challenge. When you’re too self-critical you find excuses why not to do something. If you learn to forgive yourself, you’re more likely to expect more from yourself.\n• Turn-off the self-critical voice: we live with ourselves 24/7/365. We’re not always aware of the inner conversation we have with ourselves. When you’re under-pressure pay attention to your inner talk. Is it building you up or knocking you down? Remember, you can control your thoughts – simply by being more alert and conscious of what you say to yourself."
+  },
+  "blue_judge": {
+    "header": "BLUE JUDGE: ‘THE FINGER-POINTER’",
+    "text": "When you’re under-pressure do you find it easy to find fault with others? Those with the ‘blue judge’ energy quickly blame others. They see others as being incompetent or the reason why they’ve encountered failure. They look out the window to see who can they point the finger at? Problem is, this approach can escalate tensions – not diffuse it. When you blame others, you can expect defensiveness and the temperature to rise.\nHere are 3 practical things you can do:\n• Focus on solving the problem not ‘who can I blame’?: when issues and problems arise, focus all your energy into how can we put things right. Don’t allow yourself to get drawn into – whose fault is it...who needs to have their ears pulled? This will simply lead to conflict and harsh words.\n• Ask how can I put things right?: this is another powerful way to stop wasting energy into finding fault and unleash your energy into putting things right. It also gives you credibility and respect – when others can see you’re trying to be helpful.\n• Make the time to fact find: when problems arise, ask great questions like: what events led up to this problem. If you weren’t afraid, what actions would you take? Where else have you solved something similar – what did you do and how could you apply this now?"
+  }
 }
